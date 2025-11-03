@@ -1,0 +1,3 @@
+--Staring my 21 Days sql challenge  @DPDzero and @indiandataclub along with #SQLWithIDC
+--Query to display unique services in the hospital
+SELECT DISTINCT(service) From patients;
