@@ -1,0 +1,4 @@
+#Day 2 challenge
+SELECT patient_id,name,age,satisfaction
+FROM patients
+WHERE service = 'Surgery' And satisfaction<70 ;
